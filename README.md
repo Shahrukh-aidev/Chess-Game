@@ -1,2 +1,5 @@
-# Chess-Game
-A full chess game built with HTML, CSS, and JavaScript. Includes offline 2-player mode plus AI levels 1–5 powered by Stockfish API. Features smooth logic, clean UI, sound effects, and polished move handling. A month of focused work to craft a fast, reliable, and enjoyable chess experience.
+ChessGame
+
+Experience the classic game of chess like never before! This project features two thrilling modes: challenge a friend locally in the same browser or battle the AI with 5 adjustable difficulty levels powered by the Stockfish REST API from stockfish.online
+. Enjoy smooth gameplay enhanced by intuitive sound effects and sleek piece graphics sourced from the official Lichess repository (lichess-org
+).
